@@ -1,3 +1,3 @@
-## ODIN Laboratory
+## Odin Systems
 
-A novel online laboratory framework for social scientists to conduct mutli-agent network experiments with human and AI agents.
+Scientific infrastructure for collective intelligence--where humans and AIs solve our most challenging problems together, faster.
